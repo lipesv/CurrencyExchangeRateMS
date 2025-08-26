@@ -1,0 +1,15 @@
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/bin/Debug/net8.0/CurrencyExchangeRate.Infrastructure.deps.json
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/bin/Debug/net8.0/CurrencyExchangeRate.Infrastructure.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/bin/Debug/net8.0/CurrencyExchangeRate.Infrastructure.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/bin/Debug/net8.0/CurrencyExchangeRate.Domain.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/bin/Debug/net8.0/CurrencyExchangeRate.Domain.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.csproj.AssemblyReference.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.AssemblyInfoInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.AssemblyInfo.cs
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.csproj.CoreCompileInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.csproj.CopyComplete
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/refint/CurrencyExchangeRate.Infrastructure.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/CurrencyExchangeRate.Infrastructure.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Infrastructure/obj/Debug/net8.0/ref/CurrencyExchangeRate.Infrastructure.dll

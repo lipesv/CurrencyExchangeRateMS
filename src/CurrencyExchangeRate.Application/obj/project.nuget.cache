@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8cYUeXe9sAturRetegg3xiUiifvwa/O92+SjoTCFSUvxwNVw7JgxwdNNu84L3kNOvcEVzlnbl6YhjlT3DCz7A==",
+  "success": true,
+  "projectFilePath": "/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/CurrencyExchangeRate.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/docker/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/home/docker/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.8/microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "/home/docker/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/docker/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

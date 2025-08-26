@@ -1,0 +1,11 @@
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/bin/Debug/net8.0/CurrencyExchangeRate.Domain.deps.json
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/bin/Debug/net8.0/CurrencyExchangeRate.Domain.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/bin/Debug/net8.0/CurrencyExchangeRate.Domain.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.AssemblyInfoInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.AssemblyInfo.cs
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.csproj.CoreCompileInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/refint/CurrencyExchangeRate.Domain.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/CurrencyExchangeRate.Domain.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Domain/obj/Debug/net8.0/ref/CurrencyExchangeRate.Domain.dll

@@ -1,0 +1,15 @@
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/bin/Debug/net8.0/CurrencyExchangeRate.Application.deps.json
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/bin/Debug/net8.0/CurrencyExchangeRate.Application.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/bin/Debug/net8.0/CurrencyExchangeRate.Application.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/bin/Debug/net8.0/CurrencyExchangeRate.Domain.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/bin/Debug/net8.0/CurrencyExchangeRate.Domain.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.csproj.AssemblyReference.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.AssemblyInfoInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.AssemblyInfo.cs
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.csproj.CoreCompileInputs.cache
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.csproj.CopyComplete
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/refint/CurrencyExchangeRate.Application.dll
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/CurrencyExchangeRate.Application.pdb
+/home/docker/CurrencyExchangeRateMS/src/CurrencyExchangeRate.Application/obj/Debug/net8.0/ref/CurrencyExchangeRate.Application.dll
